@@ -1,5 +1,7 @@
 # @capacitor/local-notifications
 
+## Modified to send time sensitive notifications on iOS
+
 The Local Notifications API provides a way to schedule device notifications locally (i.e. without a server sending push notifications).
 
 ## Install
