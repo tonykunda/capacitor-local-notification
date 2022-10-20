@@ -4,6 +4,8 @@
 
 The Local Notifications API provides a way to schedule device notifications locally (i.e. without a server sending push notifications).
 
+Note: Requires the Time Sensitive Notifications entitlement on iOS
+
 ## Install
 
 ```bash
